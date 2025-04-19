@@ -1,0 +1,9 @@
+baseURL = "https://mooerslab.github.io/"  
+languageCode = "en-us"  
+title = "Mooers Lab Blog Posts"  
+theme = "ananke"  
+
+[params]  
+  description = "Research and insights from the Mooers Lab"  
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"  
+  recent_posts_number = 3  
