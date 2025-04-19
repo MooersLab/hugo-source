@@ -11,5 +11,7 @@ I have to push the updated files to the hugo-source.
 I have been using a different template that is quite complex and hard to remember. 
 It would take me 30-60 minutes to recall how to make an update once every several months.
 
+![Mooers Lab Summer 2018](/images/MooersLab2018cropped.JPG) 
+
 By [Blaine Mooers]
 EOF
